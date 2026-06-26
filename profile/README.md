@@ -27,7 +27,7 @@ Elder Mind puts a wise elder's *pause before you act* into AI agents, at two sca
 |---|---|---|---|
 | 🛡️ | **[elder-mind-harness](https://github.com/Cyber-Elders/elder-mind-harness)** | individual devs & teams | A local gate inside your coding agent (Claude Code / OpenCode / Kiro). Before a risky tool call runs, it scores it, decides **allow / warn / ask / block** in plain language, and logs it — on *your* machine, with *your* model, no cloud. |
 | 🏛️ | **Elder Mind backend** *(in the works)* | larger organisations | A control plane: credential & policy gating, plus governance and assurance across a *fleet* of agents — central audit, escalation, and supply-chain curation. |
-| 📜 | **[elder-mind](https://github.com/Cyber-Elders/elder-mind) — the methodology** | everyone | The rulebook: principles, the coined ideas, and an honest standards crosswalk. |
+| 📜 | **elder-mind — the methodology** *(coming soon)* | everyone | The rulebook: principles, the coined ideas, and an honest standards crosswalk. |
 
 **They work alone *or* together:** the harness is the *edge*, the backend is the *control plane*, and the harness can report up to it. Neither requires the other.
 
@@ -42,8 +42,8 @@ Most AI-safety tooling filters *text* (prompts/outputs) or governs *deployed* wo
 ## Start here
 
 - 🛡️ **Try the harness** → [`Cyber-Elders/elder-mind-harness`](https://github.com/Cyber-Elders/elder-mind-harness)
-- 📜 **Read the idea + the model** → [`Cyber-Elders/elder-mind`](https://github.com/Cyber-Elders/elder-mind)
+- 📜 **Read the idea + the model** → `Cyber-Elders/elder-mind` *(coming soon)*
 
 ---
 
-<sub>© 2026 Cyber Elders Pty Ltd · Code under Apache-2.0 · Docs under CC BY 4.0 · Built to be honest about its limits.</sub>
+<sub>© 2026 ZenBlue Pty Ltd t/a Cyber Elders · Code under Apache-2.0 · Docs under CC BY 4.0 · Built to be honest about its limits.</sub>
